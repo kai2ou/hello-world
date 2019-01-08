@@ -1,11 +1,3 @@
-#*********************************************************
-# Copyright (c), Neko Dev Team & neoHosts Team.
-# https://github.com/neofelhz/neohosts
-#
-# This work is licensed under a MIT License.
-# https://github.com/neofelhz/neohosts/blob/data/LICENSE
-#
-#*********************************************************
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1 localhost
 ::1 localhost
@@ -61,6 +53,30 @@
 192.229.237.154 status.twitter.com #cs322.wac.edgecastcdn.net
 199.59.148.206 support.twitter.com
 104.244.42.129 www.twitter.com
+104.244.42.5 t.co
+104.244.43.140 platform.twitter.com #cs41.wac.edgecastcdn.net
+117.18.237.70 abs.twimg.com #ipv6.twimg.com
+104.244.43.195 abs-0.twimg.com #ipv6.twimg.com
+104.244.46.7 pbs.twimg.com #ipv6.twimg.com
+192.229.237.96 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
+104.244.46.167 amp.twimg.com #ipv6.twimg.com
+104.244.46.231 dnt.twimg.com #ipv6.twimg.com
+117.18.237.70 ea.twimg.com #ipv6.twimg.com
+104.244.46.71 g.twimg.com #ipv6.twimg.com
+192.229.237.154 g2.twimg.com #ipv6.twimg.com
+104.244.46.167 gu.twimg.com #ipv6.twimg.com
+117.18.237.70 hca.twimg.com #ipv6.twimg.com
+192.229.237.96 jp.twimg.com #ipv6.twimg.com
+104.244.46.7 ma.twimg.com #ipv6.twimg.com
+104.244.46.199 o.twimg.com #ipv6.twimg.com
+104.244.46.39 oem.twimg.com #ipv6.twimg.com
+104.244.46.103 p.twimg.com #ipv6.twimg.com
+72.21.91.70 ton.twimg.com #ipv6.twimg.com
+104.244.46.39 video.twimg.com #ipv6.twimg.com
+192.229.237.154 tailfeather.twimg.com #cs322.wac.edgecastcdn.net
+192.229.237.139 widgets.twimg.com #cs479.wac.edgecastcdn.net
+210.163.219.24 twimg.com
+104.244.43.135 ipv6.twimg.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
 127.0.0.1 1148.adsina.allyes.com
