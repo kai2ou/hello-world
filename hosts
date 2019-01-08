@@ -38,45 +38,7 @@
 2404:6800:4008:c03::71 insight.youtube.com #video-analytics.google.com
 2404:6800:4008:c07::66 apiblog.youtube.com #www3.l.google.com
 2404:6800:4008:c06::66 youtubei.youtube.com #youtube-ui.l.google.com
-# Twitter
-104.244.42.193 twitter.com
-104.244.42.3 about.twitter.com
-104.244.42.3 ads.twitter.com
-104.244.42.66 api.twitter.com
-199.59.149.243 blog.twitter.com
-104.244.42.67 business.twitter.com
-104.244.42.67 dev.twitter.com
-104.244.42.195 media.twitter.com
-104.244.42.134 mobile.twitter.com
-104.244.42.67 pic.twitter.com
-104.244.42.131 s.twitter.com
-192.229.237.154 status.twitter.com #cs322.wac.edgecastcdn.net
-199.59.148.206 support.twitter.com
-104.244.42.129 www.twitter.com
-104.244.42.5 t.co
-104.244.43.140 platform.twitter.com #cs41.wac.edgecastcdn.net
-117.18.237.70 abs.twimg.com #ipv6.twimg.com
-104.244.43.195 abs-0.twimg.com #ipv6.twimg.com
-104.244.46.7 pbs.twimg.com #ipv6.twimg.com
-192.229.237.96 pbs-ec.twimg.com #cs41.wac.edgecastcdn.net
-104.244.46.167 amp.twimg.com #ipv6.twimg.com
-104.244.46.231 dnt.twimg.com #ipv6.twimg.com
-117.18.237.70 ea.twimg.com #ipv6.twimg.com
-104.244.46.71 g.twimg.com #ipv6.twimg.com
-192.229.237.154 g2.twimg.com #ipv6.twimg.com
-104.244.46.167 gu.twimg.com #ipv6.twimg.com
-117.18.237.70 hca.twimg.com #ipv6.twimg.com
-192.229.237.96 jp.twimg.com #ipv6.twimg.com
-104.244.46.7 ma.twimg.com #ipv6.twimg.com
-104.244.46.199 o.twimg.com #ipv6.twimg.com
-104.244.46.39 oem.twimg.com #ipv6.twimg.com
-104.244.46.103 p.twimg.com #ipv6.twimg.com
-72.21.91.70 ton.twimg.com #ipv6.twimg.com
-104.244.46.39 video.twimg.com #ipv6.twimg.com
-192.229.237.154 tailfeather.twimg.com #cs322.wac.edgecastcdn.net
-192.229.237.139 widgets.twimg.com #cs479.wac.edgecastcdn.net
-210.163.219.24 twimg.com
-104.244.43.135 ipv6.twimg.com
+#AdAway
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
 127.0.0.1 1148.adsina.allyes.com
