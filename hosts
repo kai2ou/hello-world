@@ -17,6 +17,7 @@
 #version=20181230162223
 #*********************************************************
 
+#YouTube
 2404:6800:4008:c06::5d youtube.com
 2404:6800:4008:c07::8a www.youtube.com #youtube-ui.l.google.com
 2404:6800:4008:c07::71 au.youtube.com #youtube-ui.l.google.com
@@ -45,6 +46,21 @@
 2404:6800:4008:c03::71 insight.youtube.com #video-analytics.google.com
 2404:6800:4008:c07::66 apiblog.youtube.com #www3.l.google.com
 2404:6800:4008:c06::66 youtubei.youtube.com #youtube-ui.l.google.com
+# Twitter
+104.244.42.193 twitter.com
+104.244.42.3 about.twitter.com
+104.244.42.3 ads.twitter.com
+104.244.42.66 api.twitter.com
+199.59.149.243 blog.twitter.com
+104.244.42.67 business.twitter.com
+104.244.42.67 dev.twitter.com
+104.244.42.195 media.twitter.com
+104.244.42.134 mobile.twitter.com
+104.244.42.67 pic.twitter.com
+104.244.42.131 s.twitter.com
+192.229.237.154 status.twitter.com #cs322.wac.edgecastcdn.net
+199.59.148.206 support.twitter.com
+104.244.42.129 www.twitter.com
 127.0.0.1 0.r.msn.com
 127.0.0.1 1100.adsina.allyes.com
 127.0.0.1 1148.adsina.allyes.com
