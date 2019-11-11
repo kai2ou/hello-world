@@ -1,0 +1,13 @@
+# checkra1n 历史版本信息
+
+
+checkra1n 0.9.1 beta
+What’s new
+
+This beta fixes multiple bugs, including:
+
+An issue where the loader app would crash when installing Cydia on iPads
+A crash when the macOS language was set to anything other than English
+An issue where iPad Minis would not work with the GUI
+An issue with the scp binary not working as expected
+This version also improves clarity of some errors, specifically the -20 error, which now offers guidance on how to resolve it.
