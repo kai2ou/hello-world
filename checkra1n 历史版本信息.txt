@@ -15,3 +15,12 @@ A crash when the macOS language was set to anything other than English
 An issue where iPad Minis would not work with the GUI
 An issue with the scp binary not working as expected
 This version also improves clarity of some errors, specifically the -20 error, which now offers guidance on how to resolve it.
+
+
+checkra1n 0.9.2 beta
+What’s new
+
+Fixed an issue where the Apple Watch would not recieve notifications while jailbroken
+Improve reliablity of entering DFU mode
+Fixed an issue where checkra1n could not be used on macOS 10.10
+This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state.
