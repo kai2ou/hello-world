@@ -24,3 +24,20 @@ Fixed an issue where the Apple Watch would not recieve notifications while jailb
 Improve reliablity of entering DFU mode
 Fixed an issue where checkra1n could not be used on macOS 10.10
 This beta adds an option to boot into no-substrate mode. To utilise this functionality, hold the volume-up button when the apple logo appears until the device finishes booting. From there you’ll be able to uninstall any tweaks causing you issues, and reboot to get back to a normal jailbroken state.
+
+
+checkra1n 0.9.3.2 beta
+What’s new
+
+This build is a revision of 0.9.3, which fixes the following issues for real:
+
+Fixes an issue where biometrics did not work for some users
+Fixes an issue where the touch screen became unresponsive for some users
+Fixes an issue where the loader app may not have appeared on the homescreen
+Fixes an issue where the iPad Smart Keyboard did not work
+Fixes an issue where the fast charging functionality did not work on some devices
+Fixes an issue where the taptic engine did not work on some devices
+Detect a case where the user may have an OTA update downloaded, which caused issues for some users
+The loading mechanism for substrate has been rewritten from the ground up in this beta to improve the stability of the device.
+
+This beta also adds an option to boot into no-substrate mode. To utilize this functionality, check the no-substrate mode option in the app.
