@@ -41,3 +41,27 @@ Detect a case where the user may have an OTA update downloaded, which caused iss
 The loading mechanism for substrate has been rewritten from the ground up in this beta to improve the stability of the device.
 
 This beta also adds an option to boot into no-substrate mode. To utilize this functionality, check the no-substrate mode option in the app.
+
+
+checkra1n 0.9.5 beta
+What’s new
+
+Bug fixes
+
+Fixes an issue where the user may be signed out of their Apple ID
+Fixes an issue that caused MobileSubstrate initialization to be delayed
+Detect a case where the user may have an OTA update downloaded, which caused issues for some users
+The following issues are caused by incorrect DFU mode entry, please make sure to follow the instructions in the UI:
+
+An issue where the taptic engine did not work on some devices
+An issue where biometrics did not work for some users
+An issue where the touch screen became unresponsive for some users
+Battery settings panel issue: We have investigated this issue extensively and found that some tweaks and libraries which some tweaks depend on cause this issue.
+
+Other changes
+
+This update includes a new fast DFU sequence. Entering DFU mode should now be safer and more reliable.
+
+The loading mechanism for substrate has improved in this update, which improves the stability of the device.
+
+If you are experiencing the -20, please rejailbreak with the the no-substrate mode option checked in the app, and see if removing tweaks resolves your issue.
