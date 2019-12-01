@@ -65,3 +65,27 @@ This update includes a new fast DFU sequence. Entering DFU mode should now be sa
 The loading mechanism for substrate has improved in this update, which improves the stability of the device.
 
 If you are experiencing the -20, please rejailbreak with the the no-substrate mode option checked in the app, and see if removing tweaks resolves your issue.
+
+
+checkra1n 0.9.6 beta
+
+What’s new
+
+Bug fixes
+
+Fixes support for the iPad 6th Generation
+Fixes an issue where A7 devices would report an error code on success
+Fixes an issue where jailbreak app icons would show up on the boot after using loader’s “Restore System” functionality
+Makes the loader app more resilient to errors occurring after a long uptime
+Fixes an issue where Loader and Cydia would fail with a no internet connection message on Chinese iPhones
+Fixes an issue where the the iPad Pro Smart Keyboard would disconnect
+Fixes an issue where fast charging did not work
+Other changes
+
+Add support for jailbreaking Apple TVs from within the same app
+Added support for the iPad 5th Generation and the iPad Pro 1st Generation
+Added support for iOS 13.2.3
+Re-engineered the command line interface from the ground up
+Drastically improved loader’s speed
+Restructured loaderd and friends into separate launch daemons to survive userland reboot and removed insult from daemon name
+Export kernel base and other useful things for developers (see jbctl for details)
