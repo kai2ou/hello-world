@@ -1,0 +1,11 @@
+GFW list url:
+https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
+ACL白名单列表url:
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl
+
+ACL GFW list列表url
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
+
+ACL Back China url
+https://raw.githubusercontent.com/shadowsocks/shadowsocks-libev/master/ShadowsocksX-NG/server_block_chn.acl

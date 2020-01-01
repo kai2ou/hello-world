@@ -1,0 +1,11 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||github.com
+||wireguard.com
+||tunsafe.com
+||qiujiasu.com
+||qiujiasu.cloud
+||edu.lovess.top
+||hi.ssrcf.top
+||nbastreams.xyz
+||apps.apple.com
